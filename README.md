@@ -38,3 +38,9 @@ tekpub-catcher -downloadpath ~/Videos/Tekpub -feedurl http://delivery.tekpub.com
 ```
 
 To stop the application after the current download has been finished simply write "stop" and hit `<Enter>`.
+
+## Releases & Binaries
+
+You can **download the binaries** for a lot of platforms and architectures from my [Amazon S3 "tekpub-catcher" Bucket](https://s3.amazonaws.com/andreaskoch/tekpub-catcher/v0.1.0/index.html) or directly from my Github release pages:
+
+- [v0.1.0](https://github.com/andreaskoch/tekpub-catcher/releases/tag/v0.1.0)
